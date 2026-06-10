@@ -14,9 +14,9 @@ Not all customers are equal. A small percentage of customers typically drive the
 
 ## Key Findings
 
-- **Champions drive disproportionate value** — 1,298 customers (30% of the base) are classified as Champions, likely accounting for the majority of the £8.9M in total revenue
+- **Champions drive disproportionate value** — 1,298 customers (30% of the base) are classified as Champions, likely accounting for the majority of the $8.9M in total revenue
 - **1,251 customers "Need Attention"** — the second largest segment represents a major re-engagement opportunity; these customers were once active but are showing signs of disengagement
-- **The UK accounts for £7.31M of £8.9M total revenue (82%)** — heavy geographic concentration creates business risk; international expansion in Netherlands, EIRE, and Germany shows early traction
+- **The UK accounts for $7.31M of $8.9M total revenue (82%)** — heavy geographic concentration creates business risk; international expansion in Netherlands, EIRE, and Germany shows early traction
 - **Revenue peaks sharply in November 2011** — a clear Black Friday/holiday season effect driving £1.16M in a single month, nearly double the average month
 - **Paper Craft and Regency Cakestand are the top revenue products** at £168.5K and £142.6K respectively — gifting and home décor dominate the product mix, consistent with the holiday revenue spike
 
